@@ -37,7 +37,7 @@ $( document ).ready(function() {
 <div id="page" class="site">
 	<nav id="large-nav" role="navigation">
 	<div class="logo-container">
-		<a href="/"><img src="/wordpress/wp-content/uploads/2016/10/cropped-whitelogo.png"></a>
+		<a href="/"><img src="/wp-content/uploads/2016/10/cropped-whitelogo.png"></a>
 	</div>
 	  <div id="menu-container">
 	    <ul id="large-menu">
@@ -51,7 +51,7 @@ $( document ).ready(function() {
 	</nav>
 	<nav id="small-nav" role="navigation">
 	<div class="logo-container">
-		<a href="/"><img src="/wordpress/wp-content/uploads/2016/10/cropped-whitelogo.png"></a>
+		<a href="/"><img src="/wp-content/uploads/2016/10/cropped-whitelogo.png"></a>
 	</div>
 	  <div id="menuToggle">
 	    <input type="checkbox" />
